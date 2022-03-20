@@ -21,5 +21,3 @@ fetch('https://www.javascript.com/')
 
     console.log(data.length);
   })();
-
-  //20.03.2022
