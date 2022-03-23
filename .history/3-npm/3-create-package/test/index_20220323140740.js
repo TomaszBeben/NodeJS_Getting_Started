@@ -1,4 +1,4 @@
-const print = require('TomaszBeben-frame-print');
+const print = require('frame-print');
 
 print('Hello NPM!');
 
