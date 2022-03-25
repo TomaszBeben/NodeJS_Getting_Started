@@ -1,6 +1,8 @@
 let counter = 0;
 const intervalId = setInterval(
     ()=>{
-        console.log(counter);
+        console.log('hello');
         counter++
-    }, 1000)
+    }
+    }, 500
+)

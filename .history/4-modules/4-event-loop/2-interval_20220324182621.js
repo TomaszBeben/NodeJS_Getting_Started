@@ -3,4 +3,5 @@ const intervalId = setInterval(
     ()=>{
         console.log(counter);
         counter++
-    }, 1000)
+    }, 500
+)
